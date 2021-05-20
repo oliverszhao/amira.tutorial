@@ -43,3 +43,5 @@ Useful if you accidentally "over-labelled" a structure and wish to expand your s
 ### Interpolate
 **Selection -> Interpolate**
 If you make selections across multiple slices, it will interpolate the labels between unlabeled slices. 
+
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/InterpolatedExample.png" width = 600>

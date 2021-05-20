@@ -5,4 +5,4 @@
 - [CreatingSurfaceRenders.md](https://github.com/oliverszhao/amira.tutorial/blob/main/CreatingSurfaceRenders.md): demonstrates how to create surface renderings from label files
 - CreatingVolumeRenders.md: **[incomplete]**
 - Denoising.md: **[incomplete]**
-- MaterialStatistics.md: **[incomplete]**
+- [MaterialStatistics.md](https://github.com/oliverszhao/amira.tutorial/blob/main/MaterialStatistics.md): how to measure label volumes

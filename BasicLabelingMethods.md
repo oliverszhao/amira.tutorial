@@ -24,6 +24,9 @@ There are two smooth options:
 The selected area is smoothed. I usually run this once before labeling anything, since it makes the surface renderings look better 
 without adversely impacting any volume measurements later on.
 
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/SmoothExample.gif" width = 450>
+
+
 ### Grow
 **Selection -> Grow**
 Useful if you accidentally "under-labelled" a structure and wish to expand your selection. 

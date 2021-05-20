@@ -24,3 +24,8 @@ There are three structures (as of writing) that need to be labeled:
 - Decondensed Alpha Granules (Yellow)
 
 The platelet membrane is fairly self-explanatory. Meanwhile, the condensed alpha granule appear as (usually) homogeneous, dark grey ellipsoids. Decondensed alpha granules are usually larger, but similarly shaped and light grey or white colored.
+
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/PlateletSegmentationExample.png", width = 600>
+
+### More Examples
+More examples can be found by opening Amira files. These just provide a brief snapshot and explanation.

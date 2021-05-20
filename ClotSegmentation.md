@@ -13,7 +13,7 @@ The blood vessel walls are fairly obvious, while the red blood cells are small, 
 Tightly adherent platelets typically make up the bulk or "skeleton" of the blood clot and appear as a dark grey. 
 Meanwhile, degranulated platelets are a lighter shade of grey. Loosely adherent platelets, as their names suggest, appear loosely distributed. 
 
-<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/ClotSegmentationExample.png", width = 600>
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/ClotSegmentationExample.png" width="600">
 
 # Platelet Segmentation
 
@@ -25,7 +25,7 @@ There are three structures (as of writing) that need to be labeled:
 
 The platelet membrane is fairly self-explanatory. Meanwhile, the condensed alpha granule appear as (usually) homogeneous, dark grey ellipsoids. Decondensed alpha granules are usually larger, but similarly shaped and light grey or white colored.
 
-<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/PlateletSegmentationExample.png", width = 600>
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/PlateletSegmentationExample.png" width = 600>
 
 ### More Examples
 More examples can be found by opening Amira files. These just provide a brief snapshot and explanation.

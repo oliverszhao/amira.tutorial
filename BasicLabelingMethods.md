@@ -28,14 +28,14 @@ without adversely impacting any volume measurements later on.
 **Selection -> Grow**
 Useful if you accidentally "under-labelled" a structure and wish to expand your selection. 
 
-<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/GrowExample.gif" width = 600>
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/GrowExample.gif" width = 450>
 
 
 ### Shrink
 **Selection -> Shrink**
 Useful if you accidentally "over-labelled" a structure and wish to expand your selection.
 
-<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/ShrinkExample.gif" width = 600>
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/ShrinkExample.gif" width = 450>
 
 ### Interpolate
 **Selection -> Interpolate**

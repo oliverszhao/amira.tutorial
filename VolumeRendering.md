@@ -8,20 +8,20 @@ By modifying these two attributes based on voxel value, we can create useful vis
 
 For example, consider the image stack shown below:
 
-<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/Volume1.png" width = 450>
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/Volume1.png" width = 900>
 
 To create a volume render, we must open a **Volume Render** node. 
 
-<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/Volume2.png" width = 450>
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/Volume2.png" width = 900>
 
 To edit the color map, we click on the **Volume Render** node and click on *edit colormap*. 
 
-<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/Volume3.png" width = 450>
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/Volume3.png" width = 900>
 
 To edit the base transparency, click on the **Volume Render** node and change the *opacity* setting. However, notice that on the color map, we can also edit the transparencies for each voxel value.
 
-<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/Volume4.png" width = 450>
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/Volume4.png" width = 900>
 
 By tweaking the color map and transparencies, we can bring out details in the image stack. 
 
-<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/Volume5.png" width = 450>
+<img src="https://github.com/oliverszhao/amira.tutorial/blob/main/images/Volume5.png" width = 900>
